@@ -1,0 +1,20 @@
+{
+    "name": "tawfekov/objectid",
+    "description": "Unique Id generator inspired by mongodb object id",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tawfek Daghistani",
+            "email": "tawfekov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Tawfekov": "src/"
+        }
+    }
+}
